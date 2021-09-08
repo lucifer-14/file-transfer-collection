@@ -1,2 +1,2 @@
-Unfinshed Project, Only download works.
+Unfinshed Project, Nothing works except download command.
 Syntax: download filename.txt
